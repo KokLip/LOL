@@ -1,0 +1,9 @@
+C:\Users\LipZai_PC\Desktop\SCC.2014.05_1301188_assign3\LegalAmountConverter\LegalAmountConverter\bin\Debug\LegalAmountConverter.exe.config
+C:\Users\LipZai_PC\Desktop\SCC.2014.05_1301188_assign3\LegalAmountConverter\LegalAmountConverter\bin\Debug\LegalAmountConverter.exe
+C:\Users\LipZai_PC\Desktop\SCC.2014.05_1301188_assign3\LegalAmountConverter\LegalAmountConverter\bin\Debug\LegalAmountConverter.pdb
+C:\Users\LipZai_PC\Desktop\SCC.2014.05_1301188_assign3\LegalAmountConverter\LegalAmountConverter\obj\Debug\LegalAmountConverter.csprojResolveAssemblyReference.cache
+C:\Users\LipZai_PC\Desktop\SCC.2014.05_1301188_assign3\LegalAmountConverter\LegalAmountConverter\obj\Debug\LegalAmountConverter.LegalAmountConverter.resources
+C:\Users\LipZai_PC\Desktop\SCC.2014.05_1301188_assign3\LegalAmountConverter\LegalAmountConverter\obj\Debug\LegalAmountConverter.Properties.Resources.resources
+C:\Users\LipZai_PC\Desktop\SCC.2014.05_1301188_assign3\LegalAmountConverter\LegalAmountConverter\obj\Debug\LegalAmountConverter.csproj.GenerateResource.Cache
+C:\Users\LipZai_PC\Desktop\SCC.2014.05_1301188_assign3\LegalAmountConverter\LegalAmountConverter\obj\Debug\LegalAmountConverter.exe
+C:\Users\LipZai_PC\Desktop\SCC.2014.05_1301188_assign3\LegalAmountConverter\LegalAmountConverter\obj\Debug\LegalAmountConverter.pdb
