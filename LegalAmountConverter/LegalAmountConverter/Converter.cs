@@ -50,6 +50,8 @@ namespace LegalAmountConverter
                 string[] splitter = no.ToString().Split('.');
                 double decPart = double.Parse(splitter[1]);
 
+
+
                 if (decPart > 20 && decPart < 100)
                 {
                     double i = decPart / 10;
