@@ -8,3 +8,13 @@ C:\Users\LipZai_PC\Desktop\SCC.2014.05_1301188_assign3\LegalAmountConverter\Test
 C:\Users\LipZai_PC\Desktop\SCC.2014.05_1301188_assign3\LegalAmountConverter\TestLegalAmountConverter\obj\Debug\TestLegalAmountConverter.csprojResolveAssemblyReference.cache
 C:\Users\LipZai_PC\Desktop\SCC.2014.05_1301188_assign3\LegalAmountConverter\TestLegalAmountConverter\obj\Debug\TestLegalAmountConverter.dll
 C:\Users\LipZai_PC\Desktop\SCC.2014.05_1301188_assign3\LegalAmountConverter\TestLegalAmountConverter\obj\Debug\TestLegalAmountConverter.pdb
+C:\Users\LipZai_PC\Desktop\New folder (3)\LOL\LegalAmountConverter\TestLegalAmountConverter\bin\Debug\TestLegalAmountConverter.dll
+C:\Users\LipZai_PC\Desktop\New folder (3)\LOL\LegalAmountConverter\TestLegalAmountConverter\bin\Debug\TestLegalAmountConverter.pdb
+C:\Users\LipZai_PC\Desktop\New folder (3)\LOL\LegalAmountConverter\TestLegalAmountConverter\bin\Debug\LegalAmountConverter.exe
+C:\Users\LipZai_PC\Desktop\New folder (3)\LOL\LegalAmountConverter\TestLegalAmountConverter\bin\Debug\nunit.framework.dll
+C:\Users\LipZai_PC\Desktop\New folder (3)\LOL\LegalAmountConverter\TestLegalAmountConverter\bin\Debug\nunit.mocks.dll
+C:\Users\LipZai_PC\Desktop\New folder (3)\LOL\LegalAmountConverter\TestLegalAmountConverter\bin\Debug\LegalAmountConverter.pdb
+C:\Users\LipZai_PC\Desktop\New folder (3)\LOL\LegalAmountConverter\TestLegalAmountConverter\bin\Debug\nunit.framework.xml
+C:\Users\LipZai_PC\Desktop\New folder (3)\LOL\LegalAmountConverter\TestLegalAmountConverter\obj\Debug\TestLegalAmountConverter.csprojResolveAssemblyReference.cache
+C:\Users\LipZai_PC\Desktop\New folder (3)\LOL\LegalAmountConverter\TestLegalAmountConverter\obj\Debug\TestLegalAmountConverter.dll
+C:\Users\LipZai_PC\Desktop\New folder (3)\LOL\LegalAmountConverter\TestLegalAmountConverter\obj\Debug\TestLegalAmountConverter.pdb
