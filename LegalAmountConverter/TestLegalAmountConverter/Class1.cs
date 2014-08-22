@@ -17,7 +17,7 @@ namespace TestLegalAmountConverter
         [SetUp]
         public void makeNewBasicApplicationInstance()
         {
-          eng = new English(6666.66);
+          eng = new English(8888.88);
           malay = new Melayu(8888.88);
           eng2 = new English(-100);
           eng3 = new English(8888);
