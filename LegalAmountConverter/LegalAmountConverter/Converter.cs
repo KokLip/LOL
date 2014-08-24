@@ -45,7 +45,9 @@ namespace LegalAmountConverter
 
             if (no.ToString().Contains('.'))
             {
-                s
+                string[] splitter = no.ToString().Split('.');
+                double decPart = double.Parse(splitter[1]);
+
 
 
                 if (decPart > 20 && decPart < 100)
